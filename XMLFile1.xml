@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<states>
+  <state code='Rajasthan' handle='Select' >Select</state>
+  <state code='Rajasthan' handle='Rajasthan' >Rajasthan</state>
+ 
+</states>

@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<districts>
+  <name code="Select" handle="Select">Select</name>
+  <name code="Ajmer" handle="Ajmer">Ajmer</name>
+  <name code="Alwar" handle="Alwar">Alwar</name>
+  <name code="Banswara" handle="Banswara">Banswara</name>
+  <name code="Baran" handle="Baran">Baran</name>
+  <name code="Barmer" handle="Barmer">Barmer</name>
+  <name code="Bharatpur" handle="Bharatpur">Bharatpur</name>
+  <name code="Bhilwara" handle="Bhilwara">Bhilwara</name>
+  <name code="Bikaner" handle="Bikaner">Bikaner</name>
+  <name code="Bundi" handle="Bundi">Bundi</name>
+  <name code="Chittorgarh" handle="Chittorgarh">Chittorgarh</name>
+  <name code="Churu" handle="Churu">Churu</name>
+  <name code="Dausa" handle="Dausa">Dausa</name>
+  <name code="Dholpur" handle="Dholpur">Dholpur</name>
+  <name code="Dungarpur" handle="Dungarpur">Dungarpur</name>
+  <name code="Hanumangarh" handle="Hanumangarh">Hanumangarh</name>
+  <name code="Jaipur" handle="Jaipur">Jaipur</name>
+  <name code="Jaisalmer" handle="Jaisalmer">Jaisalmer</name>
+  <name code="Jalore" handle="Jalore">Jalore</name>
+  <name code="Jhalawar" handle="Jhalawar">Jhalawar</name>
+  <name code="Jhunjhunu" handle="Jhunjhunu">Jhunjhunu</name>
+  <name code="Jodhpur" handle="Jodhpur">Jodhpur</name>
+  <name code="Karauli" handle="Karauli">Karauli</name>
+  <name code="Kota" handle="Kota">Kota</name>
+  <name code="Nagaur" handle="Nagaur">Nagaur</name>
+  <name code="Pali" handle="Pali">Pali</name>
+  <name code="Pratapgarh" handle="Pratapgarh">Pratapgarh</name>
+  <name code="Rajsamand" handle="Rajsamand">Rajsamand</name>
+  <name code="Sawai madhopur" handle="Sawai Madhopur">Sawai Madhopur</name>
+  <name code="Sikar" handle="Sikar">Sikar</name>
+  <name code="Sirohi" handle="Sirohi">Sirohi</name>
+  <name code="Sri Ganganagar" handle="Sri Ganganagar">Sri Ganganagar</name>
+  <name code="Tonk" handle="Tonk">Tonk</name>
+  <name code="Udaipur" handle="Udaipur">Udaipur</name>
+</districts>

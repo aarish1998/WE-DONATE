@@ -1,0 +1,77 @@
+﻿label {
+    font-size: 1.3rem;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+hr {
+    height: 2px;
+    color: black;
+}
+
+span {
+    color: #3E00FF;
+}
+
+.container-fluid {
+    padding: 2% 10%;
+    height: 130px;
+    width: auto;
+    background-image: url("https://www.sriramakrishnahospital.com/wp-content/uploads/2021/06/Blood-Donation-1.jpg");
+    background-size: cover;
+    /*background-color: #001E6C;*/
+}
+
+.navbar-brand {
+    font-family: "Ubuntu";
+    font-size: 2.5rem;
+    font-weight: bold;
+}
+
+.nav-item {
+    padding: 0 8px;
+}
+
+.nav-link {
+    font-size: 1.4rem;
+    font-family: "Montserrat-light"
+}
+
+.heading-1 {
+    text-align: center;
+    margin: 20px 0;
+    font-family: "Montserrat-black";
+    font-size: 3.5rem;
+    line-height: 1.5;
+    color: #FAFAFA;
+}
+
+.dropdown-menu {
+    color: #fff;
+}
+.container-2 {
+    padding: 3% 20%;
+    background-color: #FF4848;
+}
+
+.main-form {
+    background-color: #FAFAFA;
+    padding: 30px;
+    border-radius: 10px;
+    background-image: url("https://www.bloodmatters.org/assets/image/bloodimage/blood_donation_poster.jpg");
+    background-size: cover;
+    width: auto;
+}
+/* FOOTER SECTION STYLING */
+.footer {
+    padding: 7% 15%;
+    text-align: center;
+    background-color: #EDEDED;
+}
+
+.social-icon {
+    margin: 20px 20px;
+}
+
+.heading-5 {
+    color: #105652;
+}

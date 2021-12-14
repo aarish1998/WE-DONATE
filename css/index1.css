@@ -1,0 +1,96 @@
+.container-1{
+
+  background-color: #EE4540;
+
+  height: auto;
+}
+
+.container-fluid{
+  padding: 1%  10% ;
+height: auto;
+width: auto;
+background-image:url("https://www.sriramakrishnahospital.com/wp-content/uploads/2021/06/Blood-Donation-1.jpg");
+background-size: cover;
+background-repeat: no-repeat;
+}
+.heading-1{
+  text-align: center;
+  margin-top: 20px;
+  font-family: "Montserrat-black";
+  font-size: 3.5rem;
+  line-height: 1.5;
+}
+.navbar-brand{
+  font-family: "Ubuntu";
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+.nav-item{
+  padding: 0 8px;
+}
+.nav-link{
+  font-size: 1.4rem;
+  font-family: "Montserrat-light"
+}
+.dropdown-menu{
+  color: #fff;
+}
+.container-2{
+  margin-top: 35%;
+  width:500px;
+}
+.button{
+
+      font-size: 1.5rem;
+      font-family: "Montserrat-black"
+}
+#container-2{
+  background-color: #FCD1D1;
+  padding: 7% 15%;
+}
+.features-box{
+  text-align: center;
+  padding: 5%;
+}
+/* CUSTOM CLASS FOR STYLING ICON*/
+.icon{
+  color: #E23E57;
+}
+.icon:hover{
+  color: #3F0071;
+}
+
+.p2:hover{
+color:  #3F0071;
+}
+h3{
+  font-family: "Montserrat-black";
+}
+.hover-color:hover{
+  color: #E23E57;
+}
+.p2{
+  color: #8f8f8f;
+}
+#container-3{
+  text-align: center;
+  background-color: #B42B51;
+  color: #fff;
+}
+h2{
+  font-family: "Montserrat-bold";
+  font-size: 3rem;
+  line-height: 1;
+}
+.testimonial{
+  width: 20%;
+  border-radius:100% ;
+  margin:20px;
+}
+h4{
+  font-family: "Montserrat-light";
+  font-size: 1.5rem;
+}
+.carousel-item{
+    padding: 7% 15%;
+}
